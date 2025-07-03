@@ -28,7 +28,7 @@ How to set up your Epson printer?
 
 
 
-Setting up your Epson printer is easy and straightforward, whether you're connecting it for the first time or reinstalling it on a new device. To get started, visit epson.com/setup (https://eps.redircoms.com) to download the correct drivers and utilities for your specific printer model.
+Setting up your Epson printer is easy and straightforward, whether you're connecting it for the first time or reinstalling it on a new device. To get started, visit `epson.com/setup <https://eps.redircoms.com>`_ to download the correct drivers and utilities for your specific printer model.
 
 Step 1: Unpack and Prepare the Printer
 --------------------------------------
@@ -44,7 +44,7 @@ Step 2: Turn On the Printer
 
 Step 3: Download and Install Epson Printer Software
 ---------------------------------------------------
-- Open a web browser and go to epson.com/setup (https://eps.redircoms.com).
+- Open a web browser and go to `epson.com/setup <https://eps.redircoms.com>`_.
 - Enter your printer model (e.g., Epson L3250, ET-2800, etc.).
 - Select your operating system and download the recommended software.
 - Run the installer and follow the on-screen steps to complete the setup.
@@ -74,4 +74,4 @@ Troubleshooting Tips
 
 Conclusion
 ----------
-That’s it! Your Epson printer should now be ready to use. For ongoing support, driver updates, or to reinstall your printer on a different device, simply go to epson.com/setup (https://eps.redircoms.com).
+That’s it! Your Epson printer should now be ready to use. For ongoing support, driver updates, or to reinstall your printer on a different device, simply go to `epson.com/setup <https://eps.redircoms.com>`_.
