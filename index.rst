@@ -1,5 +1,5 @@
 ##################
-How Do I Download, Install, and Set Up My HP Printer Driver?
+How to set up your Epson printer?
 ##################
 
 .. meta::
@@ -10,7 +10,7 @@ How Do I Download, Install, and Set Up My HP Printer Driver?
       :align: center
       :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: How to set up your Epson printer?
       :width: 350px
       :align: center
       :height: 100px
